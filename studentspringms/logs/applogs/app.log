@@ -1,0 +1,9 @@
+2020-10-29 09:48:15 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\Uma Dobbala\class-assignments\studentspringms\target\classes\org\cap\apps\studentms\ui\ProjectUi.class]
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'studentDaoImpl'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'studentServiceImpl'
+2020-10-29 09:48:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'projectUi'
